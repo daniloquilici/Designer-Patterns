@@ -18,6 +18,9 @@ namespace Decorator
             var impostoMtoAlto = new ImpostoMuitoAlto(new ICMS(new ISS()));
             Console.WriteLine(string.Format("ImpostoMtoAlto+ICMS+ISS: {0}", impostoMtoAlto.Calcular(orcamento)));
 
+            var icpp = new ICPP(new ICMS(new IKCV()));
+            Console.WriteLine(string.Format("ICPP+ICMS+IKCV: {0}", icpp.Calcular(orcamento)));
+
             Console.ReadKey();
         }
     }
