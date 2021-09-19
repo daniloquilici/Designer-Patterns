@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{DE764692-73B2-4DC3-A703-7831296E48F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{544BC753-0EB7-43ED-8B8F-54721D2E360C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator", "Decorator\Decorator.csproj", "{544BC753-0EB7-43ED-8B8F-54721D2E360C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator-Filtro", "Decorator-Filtro\Decorator-Filtro.csproj", "{9F15BE70-D5DF-4B6F-A35B-29F5631927DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{544BC753-0EB7-43ED-8B8F-54721D2E360C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{544BC753-0EB7-43ED-8B8F-54721D2E360C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{544BC753-0EB7-43ED-8B8F-54721D2E360C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F15BE70-D5DF-4B6F-A35B-29F5631927DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F15BE70-D5DF-4B6F-A35B-29F5631927DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F15BE70-D5DF-4B6F-A35B-29F5631927DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F15BE70-D5DF-4B6F-A35B-29F5631927DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
