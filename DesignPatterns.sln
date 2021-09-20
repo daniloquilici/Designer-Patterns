@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator", "Decorator\Deco
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator-Filtro", "Decorator-Filtro\Decorator-Filtro.csproj", "{9F15BE70-D5DF-4B6F-A35B-29F5631927DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "State\State.csproj", "{D351D0BB-0F0B-4556-9598-E615018E859C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "State", "State\State.csproj", "{D351D0BB-0F0B-4556-9598-E615018E859C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State-ContaBancaria", "State-ContaBancaria\State-ContaBancaria.csproj", "{0D36E262-D589-4B01-8D18-8CB9F43E4972}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{D351D0BB-0F0B-4556-9598-E615018E859C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D351D0BB-0F0B-4556-9598-E615018E859C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D351D0BB-0F0B-4556-9598-E615018E859C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D36E262-D589-4B01-8D18-8CB9F43E4972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D36E262-D589-4B01-8D18-8CB9F43E4972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D36E262-D589-4B01-8D18-8CB9F43E4972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D36E262-D589-4B01-8D18-8CB9F43E4972}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
