@@ -13,3 +13,4 @@ E:\Google Drive\Danilo Quilici\Alura\Design Patterns\DesignPatterns\Decorator-Fi
 E:\Google Drive\Danilo Quilici\Alura\Design Patterns\DesignPatterns\Decorator-Filtro\obj\Debug\net5.0\ref\Decorator-Filtro.dll
 E:\Google Drive\Danilo Quilici\Alura\Design Patterns\DesignPatterns\Decorator-Filtro\obj\Debug\net5.0\Decorator-Filtro.pdb
 E:\Google Drive\Danilo Quilici\Alura\Design Patterns\DesignPatterns\Decorator-Filtro\obj\Debug\net5.0\Decorator-Filtro.genruntimeconfig.cache
+E:\Google Drive\Danilo Quilici\Alura\Design Patterns\DesignPatterns\Decorator-Filtro\obj\Debug\net5.0\Decorator-Filtro.csproj.AssemblyReference.cache

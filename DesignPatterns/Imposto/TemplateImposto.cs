@@ -9,7 +9,7 @@
         public double Calcular(Orcamento orcamento)
         {
             if (ExecutaValorMaximo(orcamento))
-                return MaximoValor(orcamento)
+                return MaximoValor(orcamento);
 
             return MinimoValor(orcamento);
         }
