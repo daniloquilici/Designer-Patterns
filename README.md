@@ -7,3 +7,4 @@ Designer Patterns:
 - Template Method
 - Decorator
 - State
+- Builder
