@@ -1,7 +1,5 @@
 # Designer-Patterns
-Projeto para relembrar/praticar os mais conhecidos Designer Patterns.
-
-<h1>Designer Patterns:</h1>
+Projeto simples para relembrar/praticar os mais conhecidos Designer Patterns.
 
 <h3>Strategy</h3>
 <p>
