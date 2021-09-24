@@ -19,27 +19,7 @@ namespace Flyweight
                 notas.Get("fa"),
                 notas.Get("fa"),
                 notas.Get("fa"),
-
-                notas.Get("do"),
-                notas.Get("re"),
-                notas.Get("do"),
-                notas.Get("re"),
-                notas.Get("re"),
-                notas.Get("re"),
-
-                notas.Get("do"),
-                notas.Get("sol"),
-                notas.Get("fa"),
-                notas.Get("mi"),
-                notas.Get("mi"),
-                notas.Get("mi"),
-
-                notas.Get("do"),
-                notas.Get("re"),
-                notas.Get("mi"),
-                notas.Get("fa"),
-                notas.Get("fa"),
-                notas.Get("fa")
+                
             };
 
             Piano piano = new Piano();
