@@ -11,7 +11,7 @@ namespace Observer
         private DateTime? DataAtual { get; set; }
         private IList<ItemNota> Itens { get; set; }
 
-        private IList<IAcoesNotafiscal> acoes = new List<IAcoesNotafiscal>();
+        private IList<IAcoesNotafiscal> acoes;
 
         private double ValorBruto;
         private double Impostos;
@@ -19,6 +19,13 @@ namespace Observer
         public NotaFiscalBuilder()
         {
             this.Itens = new List<ItemNota>();
+            acoes = new List<IAcoesNotafiscal>();
+        }
+
+        public NotaFiscalBuilder(IList<IAcoesNotafiscal> acoesNotafiscal)
+        {
+            this.Itens = new List<ItemNota>();
+            acoes = acoesNotafiscal;
         }
 
         public NotaFiscalBuilder AddRazaoSocial(string razaoSocial)

@@ -13,3 +13,4 @@ E:\Google Drive\Danilo Quilici\Alura\Design Patterns\DesignPatterns\Observer\obj
 E:\Google Drive\Danilo Quilici\Alura\Design Patterns\DesignPatterns\Observer\obj\Debug\net5.0\ref\Observer.dll
 E:\Google Drive\Danilo Quilici\Alura\Design Patterns\DesignPatterns\Observer\obj\Debug\net5.0\Observer.pdb
 E:\Google Drive\Danilo Quilici\Alura\Design Patterns\DesignPatterns\Observer\obj\Debug\net5.0\Observer.genruntimeconfig.cache
+E:\Google Drive\Danilo Quilici\Alura\Design Patterns\DesignPatterns\Observer\obj\Debug\net5.0\Observer.csproj.AssemblyReference.cache
