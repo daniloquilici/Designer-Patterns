@@ -1,7 +1,12 @@
 # Designer-Patterns
 Projeto simples para relembrar/praticar os mais conhecidos Designer Patterns.
 
-- Strategy
+<h3>Strategy<h3>
+<p>
+  Define uma família de algoritmos, encapsula cada um deles e os torna intercambiaveis. A estratégia permite que o algoritmo varie independente dos clientes que o utilizam.
+</p>
+  
+  
 - Chain of Responsibility
 - Template Method
 - Decorator
