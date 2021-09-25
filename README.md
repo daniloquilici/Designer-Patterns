@@ -15,6 +15,5 @@ Projeto simples para relembrar/praticar os mais conhecidos Designer Patterns.
 - Visitor
 - Bridge
 - Command
-
-
-
+- Adapter
+- Façade e Singleton
