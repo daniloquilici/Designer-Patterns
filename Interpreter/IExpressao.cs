@@ -2,6 +2,6 @@
 {
     public interface IExpressao
     {
-        public int Avalia();
+        int Avalia();
     }
 }
