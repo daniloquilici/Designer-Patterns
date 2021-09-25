@@ -13,3 +13,4 @@ E:\Google Drive\Danilo Quilici\Alura\Design Patterns\DesignPatterns\Flyweight\ob
 E:\Google Drive\Danilo Quilici\Alura\Design Patterns\DesignPatterns\Flyweight\obj\Debug\net5.0\ref\Flyweight.dll
 E:\Google Drive\Danilo Quilici\Alura\Design Patterns\DesignPatterns\Flyweight\obj\Debug\net5.0\Flyweight.pdb
 E:\Google Drive\Danilo Quilici\Alura\Design Patterns\DesignPatterns\Flyweight\obj\Debug\net5.0\Flyweight.genruntimeconfig.cache
+E:\Google Drive\Danilo Quilici\Alura\Design Patterns\DesignPatterns\Flyweight\obj\Debug\net5.0\Flyweight.csproj.AssemblyReference.cache
