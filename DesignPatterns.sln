@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command", "Command\Command.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{EA5E0D85-7705-40A4-9BE4-CD34AA608805}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{A86BD32A-A3DE-4430-83C9-2AF88311B502}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{EA5E0D85-7705-40A4-9BE4-CD34AA608805}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA5E0D85-7705-40A4-9BE4-CD34AA608805}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA5E0D85-7705-40A4-9BE4-CD34AA608805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A86BD32A-A3DE-4430-83C9-2AF88311B502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A86BD32A-A3DE-4430-83C9-2AF88311B502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A86BD32A-A3DE-4430-83C9-2AF88311B502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A86BD32A-A3DE-4430-83C9-2AF88311B502}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

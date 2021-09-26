@@ -24,7 +24,7 @@ namespace Command
         public void FinalizaPedido() 
         {
             this.Status = Status.Entregue;
-            this.DataFinalizacao = DateTime.Now
+            this.DataFinalizacao = DateTime.Now;
         }
     }
 }

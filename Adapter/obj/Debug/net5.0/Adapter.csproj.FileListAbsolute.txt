@@ -13,3 +13,4 @@ E:\Google Drive\Danilo Quilici\Alura\Design Patterns\DesignPatterns\Adapter\obj\
 E:\Google Drive\Danilo Quilici\Alura\Design Patterns\DesignPatterns\Adapter\obj\Debug\net5.0\ref\Adapter.dll
 E:\Google Drive\Danilo Quilici\Alura\Design Patterns\DesignPatterns\Adapter\obj\Debug\net5.0\Adapter.pdb
 E:\Google Drive\Danilo Quilici\Alura\Design Patterns\DesignPatterns\Adapter\obj\Debug\net5.0\Adapter.genruntimeconfig.cache
+E:\Google Drive\Danilo Quilici\Alura\Design Patterns\DesignPatterns\Adapter\obj\Debug\net5.0\Adapter.csproj.AssemblyReference.cache
