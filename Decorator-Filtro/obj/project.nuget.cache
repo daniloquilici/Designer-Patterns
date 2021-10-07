@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "diT9+pItNP6SDF2OCgx06WOX8RFmc09/bpj1rAqnfY/EQQXQzcmc7tRZ/nA8cyBONMPXAvfejWO1Bm2hMycbug==",
+  "dgSpecHash": "opBUjV7a542ffn5jFcLN1mKaWtiShanSH0+2AIwYL6bLb6z+kK/nyyqf7SMuaHhfuRsbE4AEt1cFC4grkjY1Bw==",
   "success": true,
-  "projectFilePath": "E:\\Google Drive\\Danilo Quilici\\Alura\\Design Patterns\\DesignPatterns\\Decorator-Filtro\\Decorator-Filtro.csproj",
+  "projectFilePath": "D:\\Projetos\\Alura\\Designer-Patterns\\Designer-Patterns\\Decorator-Filtro\\Decorator-Filtro.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DurRVqRNoD8DW5dg6OC6bEios6IhNT8WYyvhiEfZZeGfN3H0qcO89PGsECH56wRIG25veTC2DYDEXq0Uv0dlaw==",
+  "dgSpecHash": "Sww91gRHGXS3XrU7xbfWgCwPhOhxc0N3bXWNx2F0MpN+oW7R0mCOdSUKcWS+07CDfZ3TMRItpwVT0ZTRILLUnA==",
   "success": true,
-  "projectFilePath": "E:\\Google Drive\\Danilo Quilici\\Alura\\Design Patterns\\DesignPatterns\\Bridge\\Bridge.csproj",
+  "projectFilePath": "D:\\Projetos\\Alura\\Designer-Patterns\\Designer-Patterns\\Bridge\\Bridge.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

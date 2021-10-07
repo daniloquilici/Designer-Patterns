@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P2wANZJzl+IZc+PCDis/6DvvCHXmN2qytEEyEwFdQuIUpllfo94iqAF9bZivr9H9fM81n95zSQu0ApsQYYow6g==",
+  "dgSpecHash": "QSKYkn3ZdfkJWVvfrEomD+B1KdvRytI3CkMSEooWqCQTINlz7zBiQsNMk3c2lPFFNwNh7HHejfU/jP/JWidT6A==",
   "success": true,
-  "projectFilePath": "E:\\Google Drive\\Danilo Quilici\\Alura\\Design Patterns\\DesignPatterns\\State-ContaBancaria\\State-ContaBancaria.csproj",
+  "projectFilePath": "D:\\Projetos\\Alura\\Designer-Patterns\\Designer-Patterns\\State-ContaBancaria\\State-ContaBancaria.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

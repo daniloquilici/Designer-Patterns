@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter", "Adapter\Adapter.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy", "Strategy\Strategy.csproj", "{A86BD32A-A3DE-4430-83C9-2AF88311B502}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer2", "Observer2\Observer2.csproj", "{334E1BF6-EA7B-45CA-AEB8-57EB41BAD864}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Observer2", "Observer2\Observer2.csproj", "{334E1BF6-EA7B-45CA-AEB8-57EB41BAD864}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorate-StarBuzz", "Decorate-StarBuzz\Decorate-StarBuzz.csproj", "{DDD9A5BB-4FA3-4893-B4F8-6D2BE0B5896D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{334E1BF6-EA7B-45CA-AEB8-57EB41BAD864}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{334E1BF6-EA7B-45CA-AEB8-57EB41BAD864}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{334E1BF6-EA7B-45CA-AEB8-57EB41BAD864}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDD9A5BB-4FA3-4893-B4F8-6D2BE0B5896D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD9A5BB-4FA3-4893-B4F8-6D2BE0B5896D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD9A5BB-4FA3-4893-B4F8-6D2BE0B5896D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD9A5BB-4FA3-4893-B4F8-6D2BE0B5896D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

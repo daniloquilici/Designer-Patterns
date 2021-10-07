@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1B9oFar48mX0Qr6hWWtUXBZDy2URHgckwdsY8rfwVKoLpawZHSUVN3i0BfhRAxgVDMOQ6/NMCP0uDuc+kKuMcQ==",
+  "dgSpecHash": "O3xpz7OOD+BKGonCPo2SUq8z25CtlKKLeuFq5vQnpx+IekJCg8lL4YspnylFftlDeRF0a6leeZVGVnJOZYb7DQ==",
   "success": true,
-  "projectFilePath": "E:\\Google Drive\\Danilo Quilici\\Alura\\Design Patterns\\DesignPatterns\\Strategy\\Strategy.csproj",
+  "projectFilePath": "D:\\Projetos\\Alura\\Designer-Patterns\\Designer-Patterns\\Strategy\\Strategy.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IeLCDKaIyWsqIvIx1/SLVpvR1cKQop7dQc2lVVGvmdceV/1IbmOv0aNC/2KgMxeC8j1lk0lWdzBP3CqtEilXqw==",
+  "dgSpecHash": "p1f0pxSEatweErdN4wbCvLQnF4AXuPj6/KUksC+PiKqpGN/+rqU5D4regIc5EKhFF2Sx5ySB9zkrUX+mhZIxCw==",
   "success": true,
-  "projectFilePath": "E:\\Google Drive\\Danilo Quilici\\Alura\\Design Patterns\\DesignPatterns\\Command\\Command.csproj",
+  "projectFilePath": "D:\\Projetos\\Alura\\Designer-Patterns\\Designer-Patterns\\Command\\Command.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

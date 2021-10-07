@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J7OhHRrgK/lHNhLYIFC649wNf6q+/csXQ1xKeNCmvKrqIWO6RlJqgf59pIhebIL6Cf8FWqnvxE1OMZ1f2gsIkQ==",
+  "dgSpecHash": "T6aTuAhGRQnkdKdo1l+NVQFudA4cF7URbLgPloj0by6ejbu895nnEs7MAsjDueA1amP3P0Np20eaN72iM6C4CQ==",
   "success": true,
-  "projectFilePath": "E:\\Google Drive\\Danilo Quilici\\Alura\\Design Patterns\\DesignPatterns\\Observer\\Observer.csproj",
+  "projectFilePath": "D:\\Projetos\\Alura\\Designer-Patterns\\Designer-Patterns\\Observer\\Observer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
